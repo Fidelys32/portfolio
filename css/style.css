@@ -201,6 +201,22 @@ nav ul li a:hover {
   color: #fff;
 }
 
+@media screen and (max-width: 600px) {
+  .input {
+    height: 30px;
+    width: 450px;
+    border-color: #edb919;
+    color: #fff;
+    margin-left: 1%;
+  }
+  #contact-form {
+    margin-left: 3%;
+  }
+}
+#button {
+  margin-left: 5%;
+}
+
 * {
   background-color: #4e2337;
 }
