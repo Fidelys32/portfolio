@@ -1,0 +1,56 @@
+*{
+    background-color: #4e2337;
+}
+.et{
+    color: #edb919;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    font-style: italic;
+}
+
+
+.holder{
+    display: flex;
+    align-items: center;
+    
+}
+.place{
+    
+    height: 30px;
+    width:220px;
+    border-color: #edb919;
+    color:#fff;
+    
+
+}
+.input{
+    height: 30px;
+    width: 500px;
+    border-color: #edb919;
+    color:#fff;
+}
+#contact-form{
+    margin-left: 37%;
+
+}
+.last{
+    margin-left: 47px;
+}
+#button{
+    margin-top: 70px;
+    margin-left: 45%;
+    color: #4e2337;
+    width: 220px;
+    height: 35px;
+    background-color:#edb919;
+    border-radius: 30px;
+    
+}
+#conta{
+    color:#fff;
+}
+
+
+@media screen and (max-width:600px){}
+    
+

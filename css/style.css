@@ -1,0 +1,262 @@
+* {
+  background-color: #4e2337;
+}
+
+nav {
+  padding: 10px 0;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  margin: 0 15px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
+.fidelys {
+  color: #edb918;
+  display: flex;
+  justify-content: center;
+  font-size: 70px;
+}
+
+.fullstack {
+  color: #fff;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+.inter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ABT {
+  display: flex;
+  justify-content: center;
+  color: #edb918;
+}
+
+.no {
+  color: #edb918;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  flex-direction: row;
+  padding-left: 60px;
+}
+
+.skilled {
+  color: #fff;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding-left: 20px;
+}
+
+.code-developer {
+  margin-top: -25px;
+}
+
+.hero {
+  display: flex;
+  justify-content: center;
+  gap: 7%;
+  margin-top: 60px;
+}
+
+#img {
+  padding-left: 85px;
+}
+
+@media screen and (max-width: 600px) {
+  nav {
+    padding: 10px 0;
+  }
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  nav ul li {
+    margin: 0 15px;
+  }
+  nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  nav ul li a:hover {
+    text-decoration: underline;
+  }
+  .fidelys {
+    color: #edb918;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+  }
+  .fullstack {
+    color: #fff;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+  }
+  .ABT {
+    display: flex;
+    justify-content: center;
+    color: #edb918;
+    margin-top: 10px;
+  }
+  .no {
+    color: #edb918;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    flex-direction: row;
+    padding-left: 60px;
+  }
+  .skilled {
+    color: #fff;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    padding-left: 20px;
+  }
+  .code-developer {
+    margin-top: -25px;
+  }
+  .hero {
+    display: inline-block;
+    justify-content: center;
+    gap: 7%;
+    margin-top: 60px;
+  }
+  #img {
+    padding-left: 85px;
+  }
+}
+* {
+  background-color: #4e2337;
+}
+
+.et {
+  color: #edb919;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 35px;
+  font-style: italic;
+}
+
+.holder {
+  display: flex;
+  align-items: center;
+}
+
+.place {
+  height: 30px;
+  width: 220px;
+  border-color: #edb919;
+  color: #fff;
+}
+
+.input {
+  height: 30px;
+  width: 500px;
+  border-color: #edb919;
+  color: #fff;
+}
+
+#contact-form {
+  margin-left: 37%;
+}
+
+.last {
+  margin-left: 47px;
+}
+
+#button {
+  margin-top: 70px;
+  margin-left: 45%;
+  color: #4e2337;
+  width: 220px;
+  height: 35px;
+  background-color: #edb919;
+  border-radius: 30px;
+}
+
+#conta {
+  color: #fff;
+}
+
+* {
+  background-color: #4e2337;
+}
+
+#abt-fidelys {
+  display: flex;
+  justify-content: center;
+  gap: 10%;
+}
+
+.fit {
+  color: #edb919;
+}
+
+.horizon {
+  color: #fff;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: small;
+}
+
+#btn {
+  color: #4e2337;
+  background-color: #edb919;
+  border-radius: 30px;
+  height: 35px;
+  width: 220px;
+  margin-top: 17px;
+}
+
+@media screen and (max-width: 600px) {
+  #abt-fidelys {
+    display: inline-block;
+    justify-content: center;
+    gap: 10%;
+  }
+  .fit {
+    color: #edb919;
+    padding-left: 35%;
+  }
+  .horizon {
+    color: #fff;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-size: small;
+    padding-left: 35%;
+  }
+  #youth {
+    padding-left: 25%;
+  }
+  #btn {
+    color: #4e2337;
+    background-color: #edb919;
+    border-radius: 30px;
+    height: 35px;
+    width: 220px;
+    margin-top: 17px;
+    margin-bottom: 10%;
+    margin-left: 36%;
+  }
+}
